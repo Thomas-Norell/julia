@@ -1,0 +1,1 @@
+Fairly old project from high school. Creates beautiful animations of julia sets evolving along some parametric path through the complex plane. Needs to be rewritten at some point.
